@@ -18,7 +18,7 @@ namespace Auto
 
         public Connection()
         {
-            Host = "127.0.0.1";
+            Host = "localhost";
             Database = "auto";
             User = "root";
             Password = "";
