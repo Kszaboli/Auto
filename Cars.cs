@@ -12,7 +12,7 @@ namespace Auto
         public string Brand { get; set; }
         public string License { get; set; }
         public string Type { get; set; }
-        public DateTime Date { get; set; }
+        public DateTime Date { get; set;}
 
     }
 }
