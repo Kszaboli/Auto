@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Auto
 {
-    internal class Program
+    public class Program
     {
+        public static List<object> carList = new List<object>();
+        public static void feladat1() 
+        {
+            
+        }
         static void Main(string[] args)
         {
 
